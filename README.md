@@ -1,7 +1,7 @@
-### Hello there,
+## Hello there,
 
 From here, you can navigate to all my data science/analyst projects created using various datasets such as store sales dataset, breast cancer dataset, airlines dataset etc,  from different sources such as Kaggle, Maven Analytics etc. <br><br>
-My proficiency in data analytics start from simple technology like Microsoft Excel to Power BI finally touching the complex data analysis techniques and building machine learning models for regression, classification & clustering using Python libraries such as Numpy, Pandas, Matplotlib, Seaborn, Folium, BeautifulSoup & Scikit-Learn. 
+My proficiency in data analytics starts from simple technology like Microsoft Excel to Power BI finally touching the complex data analysis techniques and machine learning models for regression, classification & clustering using Python libraries such as Numpy, Pandas, Matplotlib, Seaborn, Folium, BeautifulSoup & Scikit-Learn. 
 
 ### Microsoft Excel Projects Demonstrate
 - Data Cleaning
