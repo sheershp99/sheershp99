@@ -17,16 +17,13 @@ My proficiency in data analytics starts from simple technology like Microsoft Ex
 - Data Visualization
 
 ### Python Projects Demonstrate
-- Reading Data
+- Reading Data from Files
 - Web Scrapping
 - Connecting to SQL Database
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Machine Learning Models (Regression, Classification & Clustering)
-
-Thanks, <br>
-Sheersh
 
 <!---
 sheershp99/sheershp99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
