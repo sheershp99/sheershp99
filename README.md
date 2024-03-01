@@ -11,7 +11,7 @@ These projects showcase my proficiency in various data analytics & data science 
 - Folium
 - Scikit-Learn.
 
-## Key concepts and techniques which are demonstrated through my projects are listed below
+## Key concepts and techniques demonstrated through projects
 
 ### Microsoft Excel
 - Data Cleaning
